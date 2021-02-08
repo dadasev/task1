@@ -1,0 +1,17 @@
+.gif-item-container {
+    height: 30vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border: none;
+    outline: none;
+    background-color: transparent;
+    
+
+    .gif-container {
+        object-fit: contain;
+        max-width: 250px;
+        cursor: pointer;
+
+    }
+}
