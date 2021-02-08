@@ -1,3 +1,10 @@
+Task 1:
+Create one-page layout and use "Giphy" APIs (https://developers.giphy.com/docs/api#quick-start-guide) to search and preview results.
+
+Deloyed with Netlify:
+https://pedantic-jackson-08a62f.netlify.app/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
